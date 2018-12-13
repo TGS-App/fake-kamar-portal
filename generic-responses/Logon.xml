@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LogonResults apiversion="4.02.002" portalversion="4.02.017">
+    <AccessLevel>0</AccessLevel>
+    <ErrorCode>0</ErrorCode>
+    <Success>YES</Success>
+    <LogonLevel>1</LogonLevel>
+    <CurrentStudent>15201</CurrentStudent>
+    <Key>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</Key>
+</LogonResults>

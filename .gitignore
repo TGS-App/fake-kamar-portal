@@ -1,3 +1,7 @@
+cert.crt
+pkey.pem
+data
+
 *.gem
 *.rbc
 /.config
